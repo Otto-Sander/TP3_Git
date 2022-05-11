@@ -13,5 +13,6 @@ int main (void) {
             printf ("%d\n", i);
         }
     }
+    printf("Check if Olivier see the difference before and after the push");
     return EXIT_SUCCESS;
 }
